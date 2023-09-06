@@ -7,6 +7,7 @@ public class Main {
 		Examples examples = new Examples();
 		System.out.println(examples.addMobileShoppingCart());
 		System.out.println(examples.emailAlertsSupported());
+		System.out.println(examples.improveAppPerformance());
 
 	}
 

@@ -10,4 +10,7 @@ public class Examples {
 		return "Email alerts supported.";
 	}
 
+	public String improveAppPerformance() {
+		return "App performance improved.";
+	}
 }
